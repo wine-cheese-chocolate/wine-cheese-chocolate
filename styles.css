@@ -1,0 +1,209 @@
+/* The navigation bar */
+.navbar {
+    overflow: hidden;
+    background-color:#F3AB92;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+  }
+  
+  /* Links inside the navbar */
+  .navbar a {
+    float: left;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change background on mouse-over */
+  .navbar a:hover {
+    background: #FBE5DA;
+    color: #F3AB92;
+  }
+  
+
+head {
+background-color: white;
+}
+
+#wine05 {
+    margin-top: 50px;
+}
+
+body {
+background-color:;
+}
+
+
+#wine06 {
+    width: 705px;
+}
+
+#wine07 {
+    width: 391px;
+}
+
+#wine08 {
+    width: 316px;
+}
+
+main {
+    background-color:rgba(251, 229, 218, 0.212);
+    width: 1174px;
+    height: 2600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2px;
+
+}
+
+#intro {
+background-color: transparent;
+height:250px;
+}
+
+#text1 {
+    background-color: transparent;
+    height:250px;
+    }
+
+h1 { 
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+  }
+
+article {
+    background-color:#FBE5DA;
+    width: 947px;
+    height: 357px;
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom:25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+ 
+}
+
+.toppictures {
+    background-color:#FBE5DA;
+    width: 949px;
+    height: 717px;
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom:25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.room0 {
+    background-color: #F3AB92;
+    width: 940px;
+    height: 709px;
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 3px;
+    
+}
+
+.closet0 {
+    background-color: rgb(255, 255, 255);
+    width: 450px;
+    height: 680px;
+    float: left;
+    margin-left: 11px;
+    margin-top: 10px;
+    margin-right:5px;
+    }
+
+.room1 {
+    background-color: #F3AB92;
+    width: 940px;
+    height: 351px;
+    float: left;
+    margin-left: 3px;
+    margin-top: 3px;
+
+}
+
+.rooms {
+    background-color: #F3AB92;
+    width: 463px;
+    height: 351px;
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 3px;
+    
+}
+
+.closet1 {
+    background-color: rgb(255, 255, 255);
+    width: 919px;
+    height: 329px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.closet2 {
+    background-color: rgb(255, 255, 255);
+    width: 442px;
+    height: 329px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.closets {
+background-color: rgb(255, 255, 255);
+width: 212px;
+height: 329px;
+float: left;
+margin-left: 11px;
+margin-top: 10px;
+margin-right:5px;
+}
+
+img {
+    width: 100%;
+} 
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: transparent;
+    color: black;
+}
+
+     /* Facebook */
+  .fa-instagram {
+    background: transparent;
+    color: black;
+ }
